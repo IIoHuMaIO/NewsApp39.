@@ -34,6 +34,7 @@ public class BoardAdapter extends RecyclerView.Adapter<BoardAdapter.ViewHolder> 
         }
 
     }
+    //wt
 
     @Override
     public int getItemCount() {
